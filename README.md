@@ -2,6 +2,12 @@
 
 | Folge | Experiment | Links | [Anleitung @Pajowu](https://github.com/pajowu/minkorrekt-experimente) |
 | --- | --- | --- | --- |
+| [MI169](https://minkorrekt.de/mi169-85-erlebnispunkte/?t=1%3A53%3A28%2C2%3A05%3A21) | Schallgeschwindigkeit und Klopapier | [Video](https://www.youtube.com/watch?v=ihKYVqkajig), [Anleitung](https://www.npl.co.uk/skills-learning/measurement-at-home/measuring-sound-using-toilet-rolls/04-speed-sound-loo-rolls-worksheet.aspx) | |
+| [MI168](https://minkorrekt.de/minkorrekt-folge-168-toffigkeit-zum-streichen/?t=1%3A42%3A08%2C1%3A50%3A11) | Wasserkraft | [Anleitung und Erklärung](https://www.komm-mach-mint.de/schuelerinnen/experimente/alle-experimente/wasserkraft) | |
+| [MI167](https://minkorrekt.de/minkorrekt-folge-167-im-bett-mit-minkorrekt/?t=2%3A07%3A02%2C2%3A19%3A03) | Tassenton | [Video](https://www.youtube.com/watch?v=MfzNJE4CK_s) | |
+| [MI166](https://minkorrekt.de/minkorrekt-folge-166-menschen-mit-familienhintergrund/?t=2%3A41%3A35%2C2%3A52%3A01) | Flipped Waterbottle | [Video](https://www.youtube.com/watch?v=GdUVtEeg9I4), [Paper](https://aapt.scitation.org/doi/10.1119/1.5052441) | |
+| [MI165](https://minkorrekt.de/minkorrekt-folge-165-garten-und-landschaftsheiler/?t=2%3A40%3A49%2C2%3A50%3A39) | Tassenbungee | [Video](https://www.youtube.com/watch?v=U7sm0Ei56jc) | |
+| [MI164](https://minkorrekt.de/minkorrekt-folge-164-corona-unterhaltungsshow/?t=2%3A27%3A19%2C2%3A35%3A53) | Das folgsame Jojo | [Anleitung und Erklärung](https://www.experimentis.de/experimente-versuche/mechanik/der-folgsame-jojo-garnrolle/) | |
 | [MI163](https://minkorrekt.de/minkorrekt-folge-163-teneriffa-deluex/?t=1%3A46%3A02%2C2%3A12%3A06) | Klopapierrennen | [Erklärung](https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/physik/pruefungen-und-wettbewerbe/physikproblem_des_monats/archiv_2005/PdM46KlorollenwettlaufLoesung.pdf) | |
 | [MI162](http://minkorrekt.de/minkorrekt-folge-162-zwanzig-milliwoehrem/?t=2%3A22%3A22%2C2%3A39%3A33) | Siedeverzug | [Video](https://www.youtube.com/watch?v=P3yKb62NC_k) | |
 | [MI161](https://minkorrekt.de/minkorrekt-folge-161-gesichtswurst/?t=1%3A59%3A43%2C2%3A16%3A45) | Würfelschlange | [Erklärung](http://docplayer.org/21039917-Was-fuer-ein-zufall-mathematischer-hintergrund-einiger-exponate.html), [Simulation](https://phylor.github.io/wuerfelschlange/) | |
