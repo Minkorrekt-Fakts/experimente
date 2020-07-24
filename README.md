@@ -2,6 +2,7 @@
 
 | Folge | Experiment | Links | [Anleitung @Pajowu](https://github.com/pajowu/minkorrekt-experimente) |
 | --- | --- | --- | --- |
+| [MI170](https://minkorrekt.de/mi170-sehnsuchtsort/?t=1%3A55%3A38%2C2%3A12%3A02) | Die wandernde Socke | [Video](https://www.youtube.com/watch?v=D046q2EbHGE) | |
 | [MI169](https://minkorrekt.de/mi169-85-erlebnispunkte/?t=1%3A53%3A28%2C2%3A05%3A21) | Schallgeschwindigkeit und Klopapier | [Video](https://www.youtube.com/watch?v=ihKYVqkajig), [Anleitung](https://www.npl.co.uk/skills-learning/measurement-at-home/measuring-sound-using-toilet-rolls/04-speed-sound-loo-rolls-worksheet.aspx) | |
 | [MI168](https://minkorrekt.de/minkorrekt-folge-168-toffigkeit-zum-streichen/?t=1%3A42%3A08%2C1%3A50%3A11) | Wasserkraft | [Anleitung und Erklärung](https://www.komm-mach-mint.de/schuelerinnen/experimente/alle-experimente/wasserkraft) | |
 | [MI167](https://minkorrekt.de/minkorrekt-folge-167-im-bett-mit-minkorrekt/?t=2%3A07%3A02%2C2%3A19%3A03) | Tassenton | [Video](https://www.youtube.com/watch?v=MfzNJE4CK_s) | |
@@ -9,11 +10,11 @@
 | [MI165](https://minkorrekt.de/minkorrekt-folge-165-garten-und-landschaftsheiler/?t=2%3A40%3A49%2C2%3A50%3A39) | Tassenbungee | [Video](https://www.youtube.com/watch?v=U7sm0Ei56jc) | |
 | [MI164](https://minkorrekt.de/minkorrekt-folge-164-corona-unterhaltungsshow/?t=2%3A27%3A19%2C2%3A35%3A53) | Das folgsame Jojo | [Anleitung und Erklärung](https://www.experimentis.de/experimente-versuche/mechanik/der-folgsame-jojo-garnrolle/) | |
 | [MI163](https://minkorrekt.de/minkorrekt-folge-163-teneriffa-deluex/?t=1%3A46%3A02%2C2%3A12%3A06) | Klopapierrennen | [Erklärung](https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/physik/pruefungen-und-wettbewerbe/physikproblem_des_monats/archiv_2005/PdM46KlorollenwettlaufLoesung.pdf) | |
-| [MI162](http://minkorrekt.de/minkorrekt-folge-162-zwanzig-milliwoehrem/?t=2%3A22%3A22%2C2%3A39%3A33) | Siedeverzug | [Video](https://www.youtube.com/watch?v=P3yKb62NC_k) | |
+| [MI162](https://minkorrekt.de/minkorrekt-folge-162-zwanzig-milliwoehrem/?t=2%3A22%3A22%2C2%3A39%3A33) | Siedeverzug | [Video](https://www.youtube.com/watch?v=P3yKb62NC_k) | |
 | [MI161](https://minkorrekt.de/minkorrekt-folge-161-gesichtswurst/?t=1%3A59%3A43%2C2%3A16%3A45) | Würfelschlange | [Erklärung](http://docplayer.org/21039917-Was-fuer-ein-zufall-mathematischer-hintergrund-einiger-exponate.html), [Simulation](https://phylor.github.io/wuerfelschlange/) | |
 | [MI160](https://minkorrekt.de/minkorrekt-folge-160-rushen-wie-sonstwas/?t=1%3A35%3A43%2C1%3A47%3A35) | Bernoulli-Löffel | | |
 | [MI159](https://minkorrekt.de/minkorrekt-folge-159-baeh/?t=1%3A52%3A54%2C2%3A04%3A29) | Gausskannone | [Shop](https://experimentis-shop.de/gausskanone-mit-gauss-ins-ziel-detail-541.html) | |
-| [MI158](http://minkorrekt.de/minkorrekt-folge-158-jahresrueckblick-2019/?t=2%3A46%3A22%2C2%3A58%3A08) | Knicklicht | [Wikipedia: Leuchtstab](https://de.wikipedia.org/wiki/Leuchtstab), [Erklärung](https://www.simplyscience.ch/teens-liesnach-archiv/articles/wie-funktioniert-ein-knicklicht.html), [Video: Weltrekord](https://www.youtube.com/watch?v=zFddX6u8zqI)  | |
+| [MI158](https://minkorrekt.de/minkorrekt-folge-158-jahresrueckblick-2019/?t=2%3A46%3A22%2C2%3A58%3A08) | Knicklicht | [Wikipedia: Leuchtstab](https://de.wikipedia.org/wiki/Leuchtstab), [Erklärung](https://www.simplyscience.ch/teens-liesnach-archiv/articles/wie-funktioniert-ein-knicklicht.html), [Video: Weltrekord](https://www.youtube.com/watch?v=zFddX6u8zqI)  | |
 | [MI157](https://minkorrekt.de/minkorrekt-folge-157-immer-verachtung/?t=2%3A17%3A46%2C2%3A36%3A02) | Abstände im Sonnensystem | [Hörspiel](https://kinder.wdr.de/radio/kiraka/audio/kinderhoerspiel/audio-die-geburt-der-erde---radiogeschichte-100.amp) | |
 | [MI156](https://minkorrekt.de/minkorrekt-folge-156-junge-komm-bald-wieder/?t=2%3A54%3A23%2C3%3A04%3A24) | Magischer Gruppenzwang | [Video](https://www.youtube.com/watch?v=UsTcCw47kQQ) | |
 | [MI155](https://minkorrekt.de/minkorrekt-folge-155-leicht-zu-beschwurbeln/?t=2%3A42%3A16%2C2%3A55%3A49) | Hydrophobe Nanobeschichtung DIY | [Foto](https://www.dropbox.com/s/cr7yxcyw48kaii0/36A9D009-B102-4612-A248-22E7CB86EBD2.heic?dl=0), [Foto](https://www.dropbox.com/s/jzjo5y4al78y4fq/E1AF401A-2752-4DD6-98E8-33FAEDB5B648.heic?dl=0) | |
