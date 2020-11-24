@@ -2,6 +2,9 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi179](https://minkorrekt.de/mi179-regionalverband-querdenken/?t=1%3A33%3A19%2C1%3A51%3A04) | Der Siphon-Effekt | |
+| [Mi178](https://minkorrekt.de/mi178-brennbar-oder-royal/?t=2%3A45%3A22%2C2%3A54%3A59) | Badewannenlaser | |
+| [Mi177](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A06%3A19%2C2%3A24%3A27) | DIY Wackelstein | [Video](https://www.youtube.com/watch?v=Vjokwt02ySE) |
 | [Mi176](https://minkorrekt.de/mi176-bestandskinder/?t=1%3A25%3A36%2C1%3A38%3A38) | Wasserfaser | [Video](https://www.youtube.com/watch?v=_ENQIjDxsBA) |
 | [Mi175](https://minkorrekt.de/mi175-blob-wie-ich/?t=46%3A18%2C47%3A39) | Essig-Ei | [Video](https://twitter.com/MInkorrekt/status/1311630398338871301?s=20) |
 | [Mi174](https://minkorrekt.de/mi174-wie-viel-calmund-hat-das/?t=2%3A40%3A37%2C2%3A55%3A11) | Stahlwolle | |
