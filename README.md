@@ -2,6 +2,8 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi183](https://minkorrekt.de/mi183-fuss-in-der-schwurbeltuer/?t=1%3A36%3A33%2C1%3A45%3A30) | Mandarinentaucher | [Fotos](https://www.dropbox.com/sh/d9nyccmfjppoiyp/AAAahvq2UG6iz8RwGdfwQB6wa?dl=0)|
+| [Mi182](https://minkorrekt.de/mi182-jahresrueckblick-2020/?t=2%3A27%3A43%2C2%3A36%3A57) | Peffer und Salz | [Anleitung](https://www.wdrmaus.de/elefantenseite/eltern/basteln_und_experimentieren/Salz_und_Pfeffer_S171.pdf)|
 | [Mi181](https://minkorrekt.de/mi181-haare-18/?t=1%3A58%3A08%2C2%3A04%3A00) | Kerzenbläser | |
 | [Mi180](https://minkorrekt.de/mi180-sapsche/?t=1%3A38%3A32%2C1%3A49%3A08) | Eisenflakes | [Video](https://www.youtube.com/watch?v=6M8acTEoja0) |
 | [Mi179](https://minkorrekt.de/mi179-regionalverband-querdenken/?t=1%3A33%3A19%2C1%3A51%3A04) | Der Siphon-Effekt | |
