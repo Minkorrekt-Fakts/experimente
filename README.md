@@ -184,5 +184,5 @@
 | [Mi004](https://minkorrekt.de/methodisch-inkorrekt-folge-4-es-druckt/) | Dr. Nick bittet zum Sehtest | [Wikipedia: Speckle](https://de.wikipedia.org/wiki/Speckle) |
 | [Mi003](https://minkorrekt.de/methodisch-inkorrekt-folge-3-musikalisch-fragwurdig/) | Cappuccino-Effekt | [Wikipedia: Cappuccino-Effekt](https://de.wikipedia.org/wiki/Cappuccino-Effekt) |
 | [Mi002](https://minkorrekt.de/methodisch-inkorrekt-folge-2-planetarium-des-schreckens/) | Frühstück in der Unterwelt | [Fotos](https://plus.google.com/photos/107341743493109591753/albums/5885736983172965105?authkey=CMeKsofn_KL3Lg), [Video](https://www.youtube.com/watch?v=TQ3C3ejBXmw), [Anleitung](https://github.com/pajowu/minkorrekt-experimente/blob/master/docs/02.md) |
-| [Mi001](https://minkorrekt.de/methodisch-inkorrekt-folge-1-backofenbier/) | Backofenbier | [Video](https://www.youtube.com/watch?v=SEnVe0fGTbQ), ~~[Paper](http://www.physicstoday.org/resource/1/phtoad/v66/i4/p74_s1?bypassSSO=1)~~ |
+| [Mi001](https://minkorrekt.de/methodisch-inkorrekt-folge-1-backofenbier/) | Backofenbier | [Video](https://www.youtube.com/watch?v=SEnVe0fGTbQ), [Paper](https://doi.org/10.1063/PT.3.1958) |
 | [Mi000](https://minkorrekt.de/methodisch-inkorrekt-folge-01-ei-explosion/) | Ei-Explosion | [Anleitung](https://github.com/pajowu/minkorrekt-experimente/blob/master/docs/00.md) |
