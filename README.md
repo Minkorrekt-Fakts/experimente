@@ -2,6 +2,7 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi190](https://minkorrekt.de/mi190-protzende-bescheidenheit/?t=1%3A57%3A13) | Venenklappen | |
 | [Mi189](https://minkorrekt.de/mi189-spitze-der-nahrungspyramide/?t=2%3A02%3A53) | Warum platzt ein Ballon mit einem Knall? | |
 | [Mi188](https://minkorrekt.de/mi188-bruckenradio/?t=1%3A40%3A10) | Moses Kakao | |
 | [Mi187](https://minkorrekt.de/mi187-freundschaft-endet-am-napfrand/?t=2%3A00%3A54) | Die gestürzte Flasche | |
