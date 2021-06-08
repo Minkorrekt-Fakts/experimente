@@ -2,6 +2,8 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi192](https://minkorrekt.de/mi192-locker-durch-die-hose/?t=1%3A53%3A42) | Laminare Strömung | |
+| [Mi191](https://minkorrekt.de/mi191-fremdkork/?t=2%3A08%3A39) | Zuckerdreher | |
 | [Mi190](https://minkorrekt.de/mi190-protzende-bescheidenheit/?t=1%3A57%3A13) | Venenklappen | |
 | [Mi189](https://minkorrekt.de/mi189-spitze-der-nahrungspyramide/?t=2%3A02%3A53) | Warum platzt ein Ballon mit einem Knall? | |
 | [Mi188](https://minkorrekt.de/mi188-bruckenradio/?t=1%3A40%3A10) | Moses Kakao | |
