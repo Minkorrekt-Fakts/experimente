@@ -2,6 +2,8 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi194](https://minkorrekt.de/mi194-raubschnecken/?t=1%3A56%3A55) | Kirschwasser | |
+| [Mi193](https://minkorrekt.de/mi193-pfeffermuenztee/?t=2%3A03%3A54) | Linsensprenger | |
 | [Mi192](https://minkorrekt.de/mi192-locker-durch-die-hose/?t=1%3A53%3A42) | Laminare Strömung | |
 | [Mi191](https://minkorrekt.de/mi191-fremdkork/?t=2%3A08%3A39) | Zuckerdreher | |
 | [Mi190](https://minkorrekt.de/mi190-protzende-bescheidenheit/?t=1%3A57%3A13) | Venenklappen | |
