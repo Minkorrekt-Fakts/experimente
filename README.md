@@ -2,6 +2,8 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi196](https://minkorrekt.de/mi196-panini-mafia/?t=2%3A23%3A12) | Würfeltrick | [Video](https://www.youtube.com/watch?v=27qhUZbHKao)|
+| [Mi195](https://minkorrekt.de/mi195-storchen-chemtrails/?t=1%3A27%3A11) | Freier Fall | |
 | [Mi194](https://minkorrekt.de/mi194-raubschnecken/?t=1%3A56%3A55) | Kirschwasser | |
 | [Mi193](https://minkorrekt.de/mi193-pfeffermuenztee/?t=2%3A03%3A54) | Linsensprenger | |
 | [Mi192](https://minkorrekt.de/mi192-locker-durch-die-hose/?t=1%3A53%3A42) | Laminare Strömung | |
