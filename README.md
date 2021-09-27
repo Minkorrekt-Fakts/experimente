@@ -2,6 +2,8 @@
 
 | Folge | Experiment | Links |
 | --- | --- | --- |
+| [Mi198](https://minkorrekt.de/mi198-wahl-spezial-2021/?t=2%3A28%3A56) | Satz von Brouwer | [Wikipedia: Fixpunktsatz von Brouwer](https://de.wikipedia.org/wiki/Fixpunktsatz_von_Brouwer)|
+| [Mi197](https://minkorrekt.de/mi197-berufsgeschaedigt/?t=1%3A51%3A36) | Seifenblasenloch | [Anleitung](https://www.helmholtz.de/fileadmin/user_upload/Netzwerk_Sch%C3%BClerlabore/user_upload/Schuelerlabore_Broschuere2020_A5_WEB.pdf)|
 | [Mi196](https://minkorrekt.de/mi196-panini-mafia/?t=2%3A23%3A12) | Würfeltrick | [Video](https://www.youtube.com/watch?v=27qhUZbHKao)|
 | [Mi195](https://minkorrekt.de/mi195-storchen-chemtrails/?t=1%3A27%3A11) | Freier Fall | |
 | [Mi194](https://minkorrekt.de/mi194-raubschnecken/?t=1%3A56%3A55) | Kirschwasser | |
